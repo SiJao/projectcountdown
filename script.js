@@ -35,6 +35,6 @@ const timer = setInterval(() => {
     clearInterval(timer);
 
     // Replace the timer with a celebration message
-    document.querySelector(".timer").innerHTML = "<h2> 🎉 Happy New Year 2026 🎉</h2>";
+    document.querySelector(".timer").innerHTML = "<h2> Happy Birthday! </h2>";
   }
 }, 1000);  // Run this every 1000 milliseconds ( 1 second )
