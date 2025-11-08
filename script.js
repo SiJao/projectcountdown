@@ -1,6 +1,6 @@
 // set the target date for the countdown (new year eve 2025)
 
-const countdownDate = new Date("December 31, 2025 23:59:59").getTime();
+const countdownDate = new Date("November 15, 2025 23:59:59").getTime();
 
 // Set an interval to update the countdown every 1 second ( 1000 ms)
 
